@@ -13,7 +13,7 @@ Two command-line tools I built to automate the repetitive parts of my video post
 - No third-party packages — everything uses the standard library (`argparse`, `pathlib`, `collections`).
 
 ```bash
-git clone https://github.com/<your-username>/media-workflow-tools.git
+git clone https://github.com/alexspecter/media-workflow-tools.git
 cd media-workflow-tools
 ```
 
